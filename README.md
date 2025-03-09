@@ -8,7 +8,7 @@ SQL Exploratory Data Analysis (EDA) Project:
 2-Dimension exploration (DESCRIBTIVE DATA)
 
 -- explore the unique valuess ( categories ) for each dim [distinct]
-          to recoginze how data can be grouped 
+to recoginze how data can be grouped 
 --
 
 3-Date exploration
