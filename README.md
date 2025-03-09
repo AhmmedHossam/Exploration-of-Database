@@ -2,9 +2,11 @@
 SQL Exploratory Data Analysis (EDA) Project:
 
 1-Database exploration (OBJECTS OF DATABASE):
+
 -- explore tables, columns metadata [select * from information_schema.REQ-OBJECT]]
 
 2-Dimension exploration (DESCRIBTIVE DATA)
+
 -- explore the unique valuess ( categories ) for each dim [distinct]
           to recoginze how data can be grouped 
 --
